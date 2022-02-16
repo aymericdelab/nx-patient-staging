@@ -1,4 +1,6 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "shared-calendar": "libs/shared-calendar"
+  }
 }
