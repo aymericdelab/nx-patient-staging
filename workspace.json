@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
-    "shared-calendar": "libs/shared-calendar"
+    "shared-calendar": "libs/shared-calendar",
+    "patient-staging": "apps/patient-staging-expo"
   }
 }
